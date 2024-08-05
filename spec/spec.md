@@ -20,6 +20,7 @@ A [DIDComm v2.0](https://identity.foundation/didcomm-messaging/spec/v2.0/) Profi
 ~ [Brian Richter](https://www.linkedin.com/in/brianrichter3/) (Aviary Tech)
 ~ [Rolson Quadras](https://www.linkedin.com/in/rolsonquadras/) ([SecureKey](https://securekey.com/))
 ~ [Juan Caballero](https://www.linkedin.com/in/juan-caballero/) (Centre.io)
+~ [Martin Westerkamp](https://www.linkedin.com/in/martin-westerkamp-851398157/) (Spherity)
 
 
 **Participate:**
